@@ -1,0 +1,15 @@
+.header1 {
+  background-color: #0f4;
+  color: #f9f5f5;
+  text-align: center;
+}
+
+div {
+  /* display: flex;
+  align-items: center; */
+  text-align: center;
+  border: 5px outset #c60e0e;
+  background-color: rgb(202, 202, 36);
+  border-radius: 5px;
+  border-style: solid;
+}
